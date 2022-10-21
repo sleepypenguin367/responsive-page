@@ -4,6 +4,7 @@
   background-color:#2565AE;
   text-align: center;
 }
+/* following block of code is borrowed from https://stackoverflow.com/questions/47550110/disable-horizontal-scrolling-without-overflow-hidden */
 * {
   margin: 0;
   padding: 0;
